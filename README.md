@@ -68,14 +68,24 @@ Power BI • Data modeling (star schema) • DAX measures • Metric definitions
 ---
 ## Repo Structure
 
-
+```text
+cx-complaints-powerbi-dashboard/
+├─ screenshots/
+│  ├─ 01-exec-overview.png
+│  ├─ 02-sla-backlog.png
+│  ├─ 03-issue-deep-dive.png
+│  └─ 04-action-tracker.png
+├─ docs/
+│  └─ CX_Complaints_Analytics_Dashboard.pdf
+├─ scripts/
+│  └─ generate_synthetic_cx_complaints.py
+├─ data/
+│  └─ CX_Complaints_Synthetic_KenyaStyle.csv  (optional)
+└─ README.md
+```
 ---
-
 ## Notes
+
 - Dataset is synthetic (no customer PII).
 - Built to reflect a banking CX complaints environment (channels, products, SLA targets, escalation behavior).
 
----
-
-## Contact
-If you’d like a walkthrough of the model or a similar dashboard built on real operational data, reach out via GitHub or LinkedIn.
