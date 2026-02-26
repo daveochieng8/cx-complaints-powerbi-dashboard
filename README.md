@@ -31,9 +31,7 @@ Power BI • Data modeling (star schema) • DAX measures • Metric definitions
 ---
 
 ## Report Export (PDF)
-- Full report (PDF): `docs/CX_Complaints_Analytics_Dashboard.pdf`
-
-> Tip: If you rename the PDF, update the filename above.
+- Full report (PDF): `docs/CX-Complaints-Analytics-Dashboard.pdf`
 
 ---
 
