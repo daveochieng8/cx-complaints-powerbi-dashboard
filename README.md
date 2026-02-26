@@ -74,14 +74,14 @@ cx-complaints-powerbi-dashboard/
 │  ├─ 03-issue-deep-dive.png
 │  └─ 04-action-tracker.png
 ├─ docs/
-│  ├─ CX_Complaints_Analytics_Dashboard.pdf
+│  ├─ CX-Complaints-Analytics-Dashboard.pdf
 |  └─ CX-Complaints-Analytics-Dashboard.pbix
 ├─ scripts/
 │  └─ generate_synthetic_cx_complaints.py
 ├─ data/
-│  └─ CX_Complaints_Synthetic_KenyaStyle.csv  (optional)
+│  └─ CX_Complaints_Synthetic_KenyaStyle.csv
 └─ README.md
-```
+
 ---
 ## Notes
 
