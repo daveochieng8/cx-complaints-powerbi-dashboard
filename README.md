@@ -30,11 +30,6 @@ Power BI • Data modeling (star schema) • DAX measures • Metric definitions
 
 ---
 
-## Live Report: 
-https://ncbagroupplc-my.sharepoint.com/:u:/g/personal/dave_ochieng_ncbagroup_com/IQCFQC87Y2J3QIND9O28RVGLAcxLucC19hjc1LLpzkOJz6c?e=CHIxUu
-
----
-
 ## Report Export (PDF)
 - Full report (PDF): `docs/CX-Complaints-Analytics-Dashboard.pdf`
 
