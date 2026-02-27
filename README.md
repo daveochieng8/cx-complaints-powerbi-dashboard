@@ -3,7 +3,7 @@
 A Power BI dashboard built on synthetic banking CX complaint data to monitor complaint volume, backlog aging, SLA performance, escalation drivers, and customer experience outcomes. Includes a root-cause deep dive and an Action Tracker to translate insights into owners, ETAs, and expected impact.
 
 **What it demonstrates**
-- CX KPI reporting (volume, CSAT, FRT, TTR)
+- CX KPI reporting (volume, FRT, TTR)
 - SLA control (eligibility, compliance, breaches)
 - Backlog aging (bucketed open/escalated cases)
 - Driver analysis (decomposition tree + heatmap hotspots)
@@ -31,7 +31,7 @@ Power BI • Data modeling (star schema) • DAX measures • Metric definitions
 ---
 
 ## Report Export (PDF)
-- Full report (PDF): `docs/CX-Complaints-Analytics-Dashboard.pdf`
+- Full report (PDF): `CX-Complaints-Analytics-Dashboard.pdf`
 
 ---
 
@@ -61,7 +61,6 @@ Power BI • Data modeling (star schema) • DAX measures • Metric definitions
 - **SLA Compliance %**: `% of eligible Closed cases resolved within SLA_Target_Hours`  
 - **Escalation Rate %**: `% of complaints escalated`  
 - **Avg FRT (Minutes)**: Average first response time  
-- **Avg CSAT**: Average satisfaction score (if present)
 
 ---
 ## Repo Structure
