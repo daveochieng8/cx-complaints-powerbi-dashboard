@@ -49,7 +49,7 @@ Power BI • Data modeling (star schema) • DAX measures • Metric definitions
 
 **Relationships (typical setup)**
 - `Dim_Date[Date] (1)` → `Fact_Complaints[DateOpened_Date] (*)` (Active)
-- Optional: `Dim_Date[Date] (1)` → `Fact_Complaints[DateClosed_Date] (*)` (Inactive, used with `USERELATIONSHIP` when needed)
+- `Dim_Date[Date] (1)` → `Fact_Complaints[DateClosed_Date] (*)` (Inactive, used with `USERELATIONSHIP` when needed)
 
 ---
 
